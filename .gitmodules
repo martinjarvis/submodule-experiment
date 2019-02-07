@@ -1,0 +1,8 @@
+[submodule "src/modules/submodule-project-a"]
+	path = src/modules/submodule-project-a
+	url = https://github.com/martinjarvis/submodule-project-a.git
+	branch = master
+[submodule "src/modules/submodule-project-b"]
+	path = src/modules/submodule-project-b
+	url = https://github.com/martinjarvis/submodule-project-b.git
+	branch = master
